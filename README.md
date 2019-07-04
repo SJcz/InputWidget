@@ -2,6 +2,21 @@
 一个适用于微信小程序的输入组件, 可以发送文字，语音， 图片
 
 # 效果
+<image src="/picture/GIF.gif" width="300"/>
+
+### 切换到文字
+<image src="/picture/1.png" width="300"/>
+
+### 切换到语音
+<image src="/picture/2.png" width="300"/>
+
+### 录音
+<image src="/picture/3.png" width="300"/>
+
+### 取消录音
+<image src="/picture/4.png" width="300"/>
+
+
 
 
 # 使用
